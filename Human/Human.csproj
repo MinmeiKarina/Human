@@ -44,6 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Animal.cs" />
+    <Compile Include="Collections.cs" />
     <Compile Include="Human.cs" />
     <Compile Include="LINQ.cs" />
     <Compile Include="Program.cs" />
